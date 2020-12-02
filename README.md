@@ -2,6 +2,12 @@
 
 To cluster large amounts of data with K-Means, accelerated by GPU.
 
+- Data: 500000x3 K=5
 <p>
 	<img src="pic.png" />
+</p>
+
+- Data: 50000000x3 K=5 
+<p>
+	<img src="pic2.png" />
 </p>
