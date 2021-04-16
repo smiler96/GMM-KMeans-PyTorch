@@ -1,4 +1,4 @@
-# Implementation of the batch k-means with PyTorch
+# Implementation of the batch GMM & k-means with PyTorch
 
 To cluster large amounts of data with K-Means, accelerated by GPU.
 
